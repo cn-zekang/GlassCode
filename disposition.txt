@@ -1,0 +1,5 @@
+GLASS COMPUTER start ui
+CPU: glass S1
+RAM: Kingston 2G
+ROM: WD 1TB
+Graphics Card: NVIDIA RTX 2060 TI
